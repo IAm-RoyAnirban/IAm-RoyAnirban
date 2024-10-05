@@ -11,7 +11,7 @@
 
 
 ## 🏆 Achievements:
-<img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/copilot-studio-main/High%20Res/ai-associate-certified.png" width="100" height="100" />
+<img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/main-branch/High%20Res/ai-associate-certified.png" title="Certified AI Associate" width="100" height="100" />
 
 
 ## 📊 GitHub Stats:
