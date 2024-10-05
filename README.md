@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 I’m a passionate Salesforce Developer with over 3 years of experience transforming business needs into robust solutions.<br><br>My expertise spans Salesforce integrations, Lightning Web Components (LWC), and Apex development, allowing me to automate complex workflows and enhance user experiences seamlessly. 🌟<br><br>With a background as an Android Application Developer, I bring a diverse tech toolkit, including JavaScript and PHP, to the table. I thrive on tackling challenges and streamlining processes, always looking for innovative ways to leverage technology. 🚀<br><br>With a knack for complex flows and user-friendly UI design, I turn challenges into streamlined processes! 💡<br>
+# 💫 Hello There!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+I’m a passionate Salesforce Developer with over 3 years of experience transforming business needs into robust solutions.<br><br>My expertise spans Salesforce integrations, Lightning Web Components (LWC), and Apex development, allowing me to automate complex workflows and enhance user experiences seamlessly. 🌟<br><br>With a background as an Android Application Developer, I bring a diverse tech toolkit, including JavaScript and PHP, to the table. I thrive on tackling challenges and streamlining processes, always looking for innovative ways to leverage technology. 🚀<br><br>With a knack for complex flows and user-friendly UI design, I turn challenges into streamlined processes! 💡<br>
 
 
 ## 🌐 Socials:
@@ -19,5 +19,13 @@
 ![IAm-RoyAnirban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IAm-RoyAnirban&theme=chartreuse-dark&hide_border=true)
 ![IAm-RoyAnirban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAm-RoyAnirban&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
+
 ## 🛠️ My Repositories:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=IAm-RoyAnirban&repo=IAm-RoyAnirban&theme=chartreuse-dark" />
+
+
+## 🏆 GitHub Trophies
+
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/IAm-RoyAnirban)
+</p
