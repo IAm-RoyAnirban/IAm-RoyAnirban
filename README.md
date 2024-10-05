@@ -20,23 +20,20 @@ I am Anirban Roy, people call me Ani. I’m a passionate Salesforce Developer wi
 
 | Github Stats | Contribution Stats
 | --- | --- |
-| ![IAm-RoyAnirban's Stats](https://github-readme-stats.vercel.app/api?username=IAm-RoyAnirban&theme=neon&show_icons=true&hide_border=true&count_private=true) | ![IAm-RoyAnirban's Streak](https://streak-stats.demolab.com?user=IAm-RoyAnirban&theme=neon&hide_border=true)
+| ![IAm-RoyAnirban's Stats](https://github-readme-stats.vercel.app/api?username=IAm-RoyAnirban&theme=neon&show_icons=true&hide_border=true&count_private=true) | ![IAm-RoyAnirban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IAm-RoyAnirban&theme=neon-dark&hide_border=true)
 | ![IAm-RoyAnirban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAm-RoyAnirban&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=IAm-RoyAnirban&theme=aura&hide_border=true)]
-
-
 ## 🛠️ My Repositories:
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IAm-RoyAnirban&repo=IAm-RoyAnirban&theme=dracula" />
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IAm-RoyAnirban&repo=IAm-RoyAnirban&theme=vision-friendly-dark" />
+ 
 
 ## 🏆 GitHub Trophies:
 <p>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar&no-bg=true)](https://github.com/IAm-RoyAnirban)
 </p>
+
 
 ## 😉 Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
