@@ -1,4 +1,4 @@
-# 💫 Hello There!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# 💫 Hello There! <img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/main-branch/assets/images/hello.gif" width="35" />
 I’m a passionate Salesforce Developer with over 3 years of experience transforming business needs into robust solutions.<br><br>My expertise spans Salesforce integrations, Lightning Web Components (LWC), and Apex development, allowing me to automate complex workflows and enhance user experiences seamlessly. 🌟<br><br>With a background as an Android Application Developer, I bring a diverse tech toolkit, including JavaScript and PHP, to the table. I thrive on tackling challenges and streamlining processes, always looking for innovative ways to leverage technology. 🚀<br><br>With a knack for complex flows and user-friendly UI design, I turn challenges into streamlined processes! 💡<br>
 
 
@@ -11,7 +11,7 @@ I’m a passionate Salesforce Developer with over 3 years of experience transfor
 
 
 ## 🏆 My Achievements:
-<img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/main-branch/High%20Res/ai-associate-certified.png" title="Certified AI Associate" width="100" height="100" />
+<img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/main-branch/assets/images/ai-associate-certified.png" title="Certified AI Associate" width="100" height="100" />
 
 
 ## 📊 GitHub Stats:
