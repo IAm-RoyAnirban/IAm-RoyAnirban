@@ -1,9 +1,9 @@
-# 💫 Hello There! <img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/main-branch/assets/images/hello.gif" width="35" />
-I’m a passionate Salesforce Developer with over 3 years of experience transforming business needs into robust solutions.<br><br>My expertise spans Salesforce integrations, Lightning Web Components (LWC), and Apex development, allowing me to automate complex workflows and enhance user experiences seamlessly. 🌟<br><br>With a background as an Android Application Developer, I bring a diverse tech toolkit, including JavaScript and PHP, to the table. I thrive on tackling challenges and streamlining processes, always looking for innovative ways to leverage technology. 🚀<br><br>With a knack for complex flows and user-friendly UI design, I turn challenges into streamlined processes! 💡<br>
+# 💫 Hey There! Nice to Meet You! <img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/main-branch/assets/images/hello.gif" width="35" />
+I am Anirban Roy, people call me Ani. I’m a passionate Salesforce Developer with over 3 years of experience transforming business needs into robust solutions.<br><br>My expertise spans Salesforce integrations, Lightning Web Components (LWC), and Apex development, allowing me to automate complex workflows and enhance user experiences seamlessly. 🌟<br><br>With a background as an Android Application Developer, I bring a diverse tech toolkit, including JavaScript and PHP, to the table. I thrive on tackling challenges and streamlining processes, always looking for innovative ways to leverage technology. 🚀<br><br>With a knack for complex flows and user-friendly UI design, I turn challenges into streamlined processes! 💡<br>
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?logo=Facebook&logoColor=FFFFFF)](https://www.facebook.com/IAmRoyAnirban) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/i.am.r.anirban) [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/anirban-roy-900) [![X](https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=FFFFFF)](https://x.com/IAmRoyAnirban) [![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0.svg?logo=Salesforce&logoColor=FFFFFF)](https://www.salesforce.com/trailblazer/iamroyanirban)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?logo=Facebook&logoColor=FFFFFF)](https://www.facebook.com/IAmRoyAnirban) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/i.am.r.anirban) [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/anirban-roy-900) [![X](https://img.shields.io/badge/Twitter-000000.svg?logo=X&logoColor=FFFFFF)](https://x.com/IAmRoyAnirban) [![Trailhead](https://img.shields.io/badge/Trailhead-00A1E0.svg?logo=Salesforce&logoColor=FFFFFF)](https://www.salesforce.com/trailblazer/iamroyanirban) [![GitHub followers](https://img.shields.io/github/followers/IAm-RoyAnirban?label=Follow&style=social)](https://github.com/IAm-RoyAnirban/?tab=follow) [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=FFFFFF)](mailto:90royanirban@gmail.com)
 
 
 ## 💻 Tech Stacks:
@@ -14,18 +14,25 @@ I’m a passionate Salesforce Developer with over 3 years of experience transfor
 <img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/main-branch/assets/images/ai-associate-certified.png" title="Certified AI Associate" width="100" height="100" />
 
 
-## 📊 GitHub Stats:
-![IAm-RoyAnirban's Stats](https://github-readme-stats.vercel.app/api?username=IAm-RoyAnirban&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
-![IAm-RoyAnirban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IAm-RoyAnirban&theme=chartreuse-dark&hide_border=true)
-![IAm-RoyAnirban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAm-RoyAnirban&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+## 📊 Quick Stats:
+![Profile View Counter](https://komarev.com/ghpvc/?username=IAm-RoyAnirban&color=36b812&style=flat&label=Profile+views&abbreviated=true) ![Followers](https://img.shields.io/github/followers/IAm-RoyAnirban?style=social) ![Stars](https://img.shields.io/github/stars/IAm-RoyAnirban?style=social)<br>
+
+
+| Github Stats | Contribution Stats
+| --- | --- |
+| ![IAm-RoyAnirban's Stats](https://github-readme-stats.vercel.app/api?username=IAm-RoyAnirban&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true) | ![IAm-RoyAnirban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IAm-RoyAnirban&theme=chartreuse-dark&hide_border=true)
+| ![IAm-RoyAnirban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAm-RoyAnirban&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 ## 🛠️ My Repositories:
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IAm-RoyAnirban&repo=IAm-RoyAnirban&theme=chartreuse-dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=IAm-RoyAnirban&repo=IAm-RoyAnirban&theme=dracula" />
 
 
-## 🏆 GitHub Trophies
-
+## 🏆 GitHub Trophies:
+<p>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/IAm-RoyAnirban)
-</p
+</p>
+
+## 😉 Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
