@@ -11,7 +11,7 @@ I am Anirban Roy, people call me Ani. I’m a passionate Salesforce Developer wi
 
 
 ## 🏆 My Achievements:
-<img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/main-branch/assets/images/ai-associate-certified.png" title="Certified AI Associate" width="100" height="100" />
+<img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/main-branch/assets/images/certified-ai-associate.png" title="Certified AI Associate" width="100" height="100" /> <img src="https://github.com/IAm-RoyAnirban/IAm-RoyAnirban/blob/main-branch/assets/images/certified-data-cloud-consultant.png" title="Certified Data Cloud Consultant" width="100" height="100" />
 
 
 ## 📊 Quick Stats:
